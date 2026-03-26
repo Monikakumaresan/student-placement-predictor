@@ -7,6 +7,9 @@ This project predicts whether a student will get placed using Machine Learning.
 - 81% accuracy
 - Streamlit dashboard
 - Real-time prediction
+- ## 📊 Dashboard Preview
+
+![App Screenshot](app_screenshot.png)
 
 ## Run the project
 pip install -r requirements.txt
